@@ -2,18 +2,18 @@
 
 ---
 
-I'm a coding enthusiast and an freshman web developer, looking for interesting projects to build. I spend my days by learning, coding, gaming and designing.
+I'm a coding enthusiast and a freshman web developer, looking for interesting projects to build. I spend my days by learning, coding, gaming, and designing.
 
 ---
 
 
 ## About Myself
 
-- 👨‍🎓 I’m an undergraduate pursuing B.Tech in Electronics and Communication Engineering at Indian Institute of Technology, Guwahati.
-- 🔭 Interested in web development, finance and UI/UX design.
+- 👨‍🎓 I’m an undergraduate pursuing a B.Tech in Electronics and Communication Engineering at Indian Institute of Technology, Guwahati.
+- 🔭 Interested in web development, finance, and UI/UX design.
 - 🤝 I’m looking for interesting projects and freelancing opportunities.
 - 📫 You can reach me at: jvamshi36@gmail.com
-- ⚡ Fun fact: I like playing video games and I am interested in finance, entrepreneurship and Designing.
+- ⚡ Fun fact: I like playing video games and I am interested in finance, entrepreneurship, and Designing.
 
 
 ---
