@@ -9,7 +9,7 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
 
 ## About Myself
 
-- 👨‍🎓 I’m an undergraduate pursuing a B.Tech in Electronics and Communication Engineering at Indian Institute of Technology, Guwahati.
+- 👨‍🎓 I’m an undergraduate pursuing B.Tech in Electronics and Communication Engineering at Indian Institute of Technology, Guwahati.
 - 🔭 Interested in web development, finance, and UI/UX design.
 - 🤝 I’m looking for interesting projects and freelancing opportunities.
 - 📫 You can reach me at: jvamshi36@gmail.com
