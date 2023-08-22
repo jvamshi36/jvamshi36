@@ -51,7 +51,8 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
     <img src="./express-white-bg.png" alt="express" width="auto" height="20"/> 
 </a> 
 
- <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+ <a href="https://www.php.net" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
