@@ -2,7 +2,9 @@
 <h3 align="center">I'm a coding enthusiast and an freshman web developer, looking for interesting projects to build. I spend my days by learning, coding, gaming and designing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvamshi36&label=Profile%20views&color=0e75b6&style=flat" alt="jvamshi36" /> </p>
-
+- 👨‍🎓 I’m an undergraduate pursuing B.Tech in Electronics and Communication Engineering at Indian Institute of Technology, Guwahati.
+- 🔭 Interested in web development, finance and UI/UX design.
+- 🤝 I’m looking for interesting projects and freelancing opportunities.
 - 📫 You can to reach me at : **jvamshi36@gmail.com**
 
 - ⚡ Fun fact **I like playing video games and I am interested in finance, entrepreneurship and Designing.**
