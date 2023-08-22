@@ -42,7 +42,6 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
 
 <p>
  
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -52,7 +51,7 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
     <img src="./express-white-bg.png" alt="express" width="auto" height="20"/> 
 </a> 
 
-
+ <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -90,15 +89,17 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
 
@@ -126,6 +127,6 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
 
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prakhar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi_jatothu) [![Mail Badge](https://img.shields.io/badge/-@vamshi_jatothu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vamshi_jatothu/) [![Mail Badge](https://img.shields.io/badge/-rajpaliprakhar23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jvamshi36@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vamshi_jatothu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi_jatothu) [![Mail Badge](https://img.shields.io/badge/-@vamshi_jatothu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vamshi_jatothu/) [![Mail Badge](https://img.shields.io/badge/-jvamshi36-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jvamshi36@gmail.com)
 
 ---
