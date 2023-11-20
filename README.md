@@ -131,6 +131,6 @@ I'm a coding enthusiast and a freshman web developer, looking for interesting pr
 
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-vamshi-jatothu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-jatothu) [![Mail Badge](https://img.shields.io/badge/-@vamshi_jatothu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vamshi_jatothu/) [![Mail Badge](https://img.shields.io/badge/-jvamshi36-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jvamshi36@gmail.com)
+https://img.shields.io/badge/-Vamshi_Jatothu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi_jatothu) [![Mail Badge](https://img.shields.io/badge/-@vamshi_jatothu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vamshi_jatothu/) [![Mail Badge](https://img.shields.io/badge/-jvamshi36-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jvamshi36@gmail.com)
 
 ---
